@@ -7,6 +7,21 @@
 }
 
 body {
-    font-family: karla, sans-serif;
-    font-weight: 400;
+    font-family: Karla, sans-serif;
+    weight: 400;
+    color: #293241;
+}
+
+/* headings and nav_logo */
+
+h1, h2 {
+    font-family: Rubik, sans serif;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    color:  #171D26;
+}
+
+#nav_logo {
+    float: left;
+    font-size: 250%;
 }
