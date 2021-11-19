@@ -90,6 +90,7 @@ h1, h2 {
 
 .listen-container {
     display: flex;
+    background-color: orange;
 }
 
 .listen-heading {
@@ -112,7 +113,6 @@ h1, h2 {
 
 .spotify-box {
     flex: 1;
-    background-color: orange;
 }
 
 .youtube-box {
@@ -123,7 +123,24 @@ h1, h2 {
     flex: 1;
 }
 
+.apple-box {
+    flex: 1;
+}
+
 .icon {
     font-size: 500%;
     text-align: center;
 }
+
+#when-container {
+    display: flex;
+    justify-content: space-around;
+    background-color: orangered;
+}
+
+#when-container div {
+        border: 5px black solid;
+        padding: 10px;
+}
+
+
