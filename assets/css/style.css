@@ -92,6 +92,19 @@ h1, h2 {
     display: flex;
 }
 
+.listen-heading {
+    display: flex;
+}
+
+.listen-box {
+    border: 5px black solid;
+    padding: 10px;
+}
+
+.listen-title {
+    text-align: center;
+}
+
 .listen-container div {
     border: 5px black solid;
     padding: 10px;
@@ -99,6 +112,7 @@ h1, h2 {
 
 .spotify-box {
     flex: 1;
+    background-color: orange;
 }
 
 .youtube-box {
@@ -107,4 +121,9 @@ h1, h2 {
 
 .twitch-box {
     flex: 1;
+}
+
+.icon {
+    font-size: 500%;
+    text-align: center;
 }
