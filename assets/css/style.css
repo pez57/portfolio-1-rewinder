@@ -109,6 +109,7 @@ h1, h2 {
 .listen-container div {
     border: 5px black solid;
     padding: 10px;
+    text-align: center;
 }
 
 .spotify-box {
@@ -129,7 +130,10 @@ h1, h2 {
 
 .icon {
     font-size: 500%;
-    text-align: center;
+}
+
+.icon:hover {
+    font-size: 500%;
 }
 
 #when-container {
