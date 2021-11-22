@@ -72,7 +72,7 @@ h1, h2 {
     height: 800px;
     width: 100%;
     background: url('../images/pexels-koolshooters-medium.jpg') no-repeat center center;
-    background-size: 100%;
+    background-size: cover;
     }
 
 #hero-text {
@@ -90,7 +90,7 @@ h1, h2 {
 
 .listen-container {
     display: flex;
-    background-color: orange;
+    background-color: #EE6C4D;
 }
 
 .listen-heading {
@@ -145,6 +145,7 @@ h1, h2 {
 #when-container div {
         border: none;
         padding: 5px;
+        margin: 10px;
 }
 
 .when-listen-box {
@@ -157,4 +158,15 @@ h1, h2 {
     text-align: center;
 }
 
+/* Subscribe form */
 
+#signup-form {
+    display: flex;
+    background-color: #EE6C4D;
+
+}
+
+#form-title {
+    flex: 1;
+    text-align: center;
+}
