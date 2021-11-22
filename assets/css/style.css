@@ -162,6 +162,8 @@ h1, h2 {
 
 #signup-form {
     display: flex;
+    border: solid black;
+    padding: 40px;
     background-color: #EE6C4D;
 
 }
