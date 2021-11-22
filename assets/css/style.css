@@ -172,3 +172,7 @@ h1, h2 {
     flex: 1;
     text-align: center;
 }
+
+.name-input {
+     flex: 1;
+}
