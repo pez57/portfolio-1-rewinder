@@ -168,9 +168,34 @@ h1, h2 {
     text-align: center;
 }
 
+.form-container {
+    display: flex;
+    justify-content: center;
+}
+
 .signup-form {
     display: flex;
     max-width: fit-content;
     background-color: #E0FBFC;
     border-radius: 10px;
     padding: 2em;
+}
+
+.message {
+    display: flex;
+    flex-direction: column;
+    order: 2;
+}
+
+#message-text {
+    flex: 1;
+}
+
+.newsletter-signup {
+    flex: 1;
+    order: 1;
+}
+
+.newsletter-signup input {
+    width: 100%;
+}
