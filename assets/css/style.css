@@ -91,6 +91,7 @@ h1, h2 {
 .listen-container {
     display: flex;
     background-color: #EE6C4D;
+    border-radius: 10px;
 }
 
 .listen-heading {
@@ -130,11 +131,12 @@ h1, h2 {
 }
 
 .icon {
-    font-size: 500%;
+    font-size: 150px;
 }
 
 .icon:hover {
-    font-size: 500%;
+    color: #E0FBFC;
+    font-size: 150px;
 }
 
 #when-container {
@@ -171,6 +173,7 @@ h1, h2 {
 
 #subscribe {
     background-color: #EE6C4D;
+    border-radius: 10px;
 }
 
 #form-title {
