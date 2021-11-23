@@ -100,6 +100,7 @@ h1, h2 {
 .listen-box {
     border: none;
     padding: 10px;
+    margin: 30px;
 }
 
 .listen-title {
@@ -138,7 +139,7 @@ h1, h2 {
 
 #when-container {
     display: flex;
-    height: 400px;
+    height: fit-content;
     justify-content: space-around;
 }
 
@@ -156,6 +157,14 @@ h1, h2 {
 .when-watch-box {
     flex: 1;
     text-align: center;
+}
+
+.when-info {
+    padding-bottom: 15px;
+}
+
+.when-listen-box h2, .when-watch-box h2 {
+    margin: 30px;
 }
 
 /* Subscribe form */
@@ -198,4 +207,17 @@ h1, h2 {
 
 .newsletter-signup input {
     width: 100%;
+}
+
+.newsletter-signup button {
+    background: #293241;
+    color: #E0FBFC;
+    font-weight: bold;
+    border-radius: 10px;
+}
+
+.newsletter-signup input,
+.newsletter-signup button {
+  padding: 1em;
+  margin-bottom: 1em;
 }
