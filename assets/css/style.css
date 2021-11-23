@@ -160,25 +160,12 @@ h1, h2 {
 
 /* Subscribe form */
 
-#signup-form {
-    display: flex;
-    border: solid black;
-    padding: 40px;
+#subscribe {
     background-color: #EE6C4D;
+}
+
+#form-title {
     text-align: center;
-
 }
 
-/**#form-title {
-    flex: 1;
-    text-align: center;
-    
-}*/
 
-#signup-form, div {
-    border: solid black;
-}
-
-.name-input, .email-input {
-    font-size: 110%;
-}
