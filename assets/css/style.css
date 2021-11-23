@@ -188,6 +188,7 @@ h1, h2 {
     background-color: #E0FBFC;
     border-radius: 10px;
     padding: 2em;
+    margin-bottom: 30px;
 }
 
 .message {
@@ -220,4 +221,12 @@ h1, h2 {
 .newsletter-signup button {
   padding: 1em;
   margin-bottom: 1em;
+}
+
+#form-title h1 {
+    padding: 30px;
+}
+
+#form-title p {
+    padding-bottom: 15px;
 }
