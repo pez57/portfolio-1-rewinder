@@ -168,4 +168,9 @@ h1, h2 {
     text-align: center;
 }
 
-
+.signup-form {
+    display: flex;
+    max-width: fit-content;
+    background-color: #E0FBFC;
+    border-radius: 10px;
+    padding: 2em;
