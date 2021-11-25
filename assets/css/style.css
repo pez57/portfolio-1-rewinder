@@ -24,7 +24,8 @@ h1, h2 {
 
 #nav-logo {
     float: left;
-    font-size: 250%;
+    font-size: 350%;
+    margin: 5px;
 }
 
 
@@ -62,18 +63,25 @@ h1, h2 {
 
 /*hero image*/
 
+/*first image and styling removed*/
 #hero-outer {
     height: 800px;
     width: 100%;
-    overflow: inherit;
+    overflow: hidden;
 }
 
-#hero-image {
+/*#hero-image {
     height: 800px;
     width: 100%;
     background: url('../images/pexels-koolshooters-medium.jpg') no-repeat center center;
     background-size: cover;
     }
+*/
+#hero-image {
+    background-color: #EE6C4D;
+    height: 100%;
+    width: 100%;
+}
 
 #hero-text {
     border: solid 1px;
