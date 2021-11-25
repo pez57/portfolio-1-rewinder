@@ -53,7 +53,7 @@ h1, h2 {
     color: inherit;
 }
 
-#menu, a:hover {
+#menu a:hover {
     font-size: 110%;
 }
 
@@ -70,17 +70,12 @@ h1, h2 {
     overflow: hidden;
 }
 
-/*#hero-image {
-    height: 800px;
-    width: 100%;
-    background: url('../images/pexels-koolshooters-medium.jpg') no-repeat center center;
-    background-size: cover;
-    }
-*/
+
 #hero-image {
-    background-color: #EE6C4D;
+    background: url('../images/pexels-cottonbro-6863608.jpg');
     height: 100%;
     width: 100%;
+    background-size: cover;    
 }
 
 #hero-text {
@@ -95,6 +90,10 @@ h1, h2 {
 }
 
 /* listen section */
+
+#listen {
+    height: 800px;
+}
 
 .listen-container {
     display: flex;
