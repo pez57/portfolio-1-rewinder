@@ -312,4 +312,16 @@ footer > a {
     #menu, li {
         margin-right: 10px;
     }
+
+    #hero-image {
+        height: 250px;
+    }
+
+    #hero-text {
+        margin: 0 auto;
+        top: 370px;
+        width: 80%;
+        left: 20px;
+    }
+
 }
