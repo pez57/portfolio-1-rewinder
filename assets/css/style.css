@@ -248,7 +248,6 @@ h1, h2 {
 /* Footer */
 footer {
     background-color: #293241;
-    text-align: center;
     color: #E0FBFC;
     position: fixed;
     bottom: 0;
@@ -256,6 +255,12 @@ footer {
     width: 100%;
 }
 
-#socials {
-    
+#foot-logo {
+    text-align: left;
+    text-transform: uppercase;
+}
+
+footer > a {
+    font-size: 110%;
+    padding: 10px;
 }
