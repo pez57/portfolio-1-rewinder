@@ -296,6 +296,10 @@ footer > a {
         font-size: 100px;
     }
 
+    .icon:hover {
+        font-size: 100px;
+    }
+
 
 }
 
@@ -330,7 +334,7 @@ footer > a {
         top: 370px;
         width: 80%;
         left: 20px;
-        background-color: transparent;
+        background-color: #EE6C4D;
     }
 
     .icon {
@@ -348,6 +352,10 @@ footer > a {
 
     #when-container {
         flex-direction: column;
+    }
+
+    iframe {
+        width: 100%;
     }
 
     
