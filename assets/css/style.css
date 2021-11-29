@@ -96,6 +96,7 @@ h1, h2 {
 
 #listen {
     height: 800px;
+    font-weight: 600;
 }
 
 .listen-container {
@@ -184,6 +185,7 @@ h1, h2 {
 #subscribe {
     background-color: #EE6C4D;
     border-radius: 10px;
+    font-weight: 600;
 }
 
 #form-title {
@@ -222,7 +224,7 @@ h1, h2 {
 }
 
 .newsletter-signup input {
-    width: 100%;
+    width: 80%;
 }
 
 .newsletter-signup button {
@@ -243,7 +245,7 @@ h1, h2 {
 }
 
 #form-title p {
-    padding-bottom: 15px;
+    padding: 0 40px 15px 40px;
 }
 
 /* Footer */
@@ -264,4 +266,50 @@ footer {
 footer > a {
     font-size: 110%;
     padding: 10px;
+}
+
+/* Media Queries */
+
+/* For desktop and medium size screens */
+
+@media (max-width: 1150px) {
+    #nav-logo {
+        font-size: 250%;
+    }
+
+    #menu {
+        margin: 0 auto;
+        font-size: 100%;
+        float: none;
+    }
+
+    .active {
+        font-size: 100%;
+        font-weight: bold;
+    }
+
+    iframe {
+        width: 80%;
+    }
+
+
+}
+
+/* For smaller screens and mobile */
+
+@media (max-width: 900px) {
+    #nav-logo {
+        font-size: 200%;
+        margin: 0 auto;
+    }
+
+    #menu {
+        width: max-content;
+        height: max-content;
+        padding-top: 40px;
+    }
+
+    #menu, li {
+        margin-right: 10px;
+    }
 }
