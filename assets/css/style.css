@@ -244,3 +244,18 @@ h1, h2 {
 #form-title p {
     padding-bottom: 15px;
 }
+
+/* Footer */
+footer {
+    background-color: #293241;
+    text-align: center;
+    color: #E0FBFC;
+    position: fixed;
+    bottom: 0;
+    padding: 10px;
+    width: 100%;
+}
+
+#socials {
+    
+}
