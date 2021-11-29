@@ -292,6 +292,10 @@ footer > a {
         width: 80%;
     }
 
+    .icon {
+        font-size: 100px;
+    }
+
 
 }
 
@@ -313,6 +317,10 @@ footer > a {
         margin-right: 10px;
     }
 
+    #hero-outer {
+        height: 500px;
+    }
+
     #hero-image {
         height: 250px;
     }
@@ -322,6 +330,25 @@ footer > a {
         top: 370px;
         width: 80%;
         left: 20px;
+        background-color: transparent;
     }
 
+    .icon {
+        font-size: 70px;
+    }
+
+    .icon:hover {
+        font-size: 70px;
+    }
+
+
+    #listen {
+        height: 1400px;
+    }
+
+    #when-container {
+        flex-direction: column;
+    }
+
+    
 }
