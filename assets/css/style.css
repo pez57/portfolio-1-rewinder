@@ -54,7 +54,7 @@ h1, h2 {
 }
 
 #menu a:hover {
-    font-size: 110%;
+    color: #EE6C4D;
 }
 
 .active {
@@ -238,6 +238,11 @@ h1, h2 {
 .newsletter-signup button {
   padding: 1em;
   margin-bottom: 1em;
+}
+
+.newsletter-signup button:hover {
+    color: #171D26;
+    background: #EE6C4D;
 }
 
 #form-title h1 {
