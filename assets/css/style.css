@@ -8,7 +8,7 @@
 
 body {
     font-family: Karla, sans-serif;
-    font-weight: 400;
+    font-weight: 600;
     color: #293241;
     background-color: #E0FBFC;
 }
@@ -246,6 +246,28 @@ h1, h2 {
 
 #form-title p {
     padding: 0 40px 15px 40px;
+}
+
+
+/* Tour page */
+
+table {
+    border-collapse: collapse;
+}
+
+table td, table th {
+    border: 1px solid #293241;
+    padding: 10px
+}
+
+table th {
+    background: #171D26;
+    color: #E0FBFC;
+    font-weight: bold;
+}
+
+table td {
+    background: #EE6C4D;
 }
 
 /* Footer */
