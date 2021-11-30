@@ -57,10 +57,6 @@ h1, h2 {
     color: #EE6C4D;
 }
 
-.active {
-    font-size: 200%;
-}
-
 /*hero image*/
 
 /*first image and styling removed*/
@@ -245,7 +241,7 @@ h1, h2 {
     background: #EE6C4D;
 }
 
-#form-title h1 {
+#form-title h2 {
     padding: 30px;
 }
 
@@ -290,7 +286,7 @@ table a:hover {
     padding: 30px;
 }
 
-#tour-title h1 {
+#tour-title h2 {
     padding-bottom: 20px;
 }
 
@@ -408,6 +404,7 @@ footer a:hover {
         flex-direction: column;
     }
 
+    
     iframe {
         width: 100%;
     }
