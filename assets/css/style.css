@@ -26,6 +26,7 @@ h1, h2 {
     float: left;
     font-size: 350%;
     margin: 5px;
+    margin-left: 20px;
 }
 
 
@@ -255,7 +256,8 @@ h1, h2 {
 
 /* Tour page */
 #tour {
-    height: 800px;
+    max-height: fit-content;
+    padding-bottom: 80px;
 }
 
 table {
@@ -366,6 +368,7 @@ footer a:hover {
     #nav-logo {
         font-size: 200%;
         margin: 0 auto;
+        margin-left: 20px;
     }
 
     #menu {
@@ -419,10 +422,6 @@ footer a:hover {
         width: 100%;
     }
 
-    #tour {
-        padding-bottom: 100px;
-    }
-
     table {
         font-size: 90%;
     }   
@@ -446,7 +445,7 @@ footer a:hover {
 
 /* For small mobile screens */
 
-@media (max-width: 350px) {
+@media (max-width: 360px) {
     table {
         overflow-x: auto;
         display: block;
@@ -455,6 +454,7 @@ footer a:hover {
     #nav-logo {
         text-align: center;
         float: none;
+        margin-left: 0;
     }
 
     #menu {
