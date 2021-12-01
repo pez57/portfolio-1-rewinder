@@ -68,7 +68,7 @@ h1, h2 {
 
 
 #hero-image {
-    background: url('../images/pexels-cottonbro-6863608.jpg') no-repeat center center;
+    background: url('../images/pexels-cottonbro.jpg') no-repeat center center;
     height: 100%;
     width: 100%;
     background-size: cover;    
@@ -320,7 +320,7 @@ footer a:hover {
 
 /* Media Queries */
 
-/* For desktop and medium size screens */
+/* For desktop and tablet size screens */
 
 @media (max-width: 1150px) {
     #nav-logo {
@@ -353,7 +353,7 @@ footer a:hover {
 
 }
 
-/* For smaller screens and mobile */
+/* For medium screens and mobile */
 
 @media (max-width: 900px) {
     #nav-logo {
@@ -415,8 +415,31 @@ footer a:hover {
 
     table {
         font-size: 90%;
+    }   
+}
+
+/* For small mobile screens */
+
+@media (max-width: 350px) {
+    table {
+        overflow-x: auto;
+        display: block;
     }
 
+    #nav-logo {
+        text-align: center;
+        float: none;
+    }
 
-    
+    #menu {
+        padding-top: 0;
+    }
+
+    #hero-text {
+        display: none;
+    }
+
+    #hero-outer {
+        height: 250px;
+    }
 }
