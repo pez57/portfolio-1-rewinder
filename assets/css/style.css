@@ -353,6 +353,10 @@ footer a:hover {
         font-size: 5em;
     }
 
+    #listen {
+        height: 744px;
+    }
+
 
 }
 
@@ -399,11 +403,15 @@ footer a:hover {
 
 
     #listen {
-        height: 1400px;
+        height: 1066px;
     }
 
     #when-container {
         flex-direction: column;
+    }
+
+    #when-container div {
+        margin-bottom: -106px;
     }
 
     
@@ -421,10 +429,18 @@ footer a:hover {
 }
 
 
+/* Mid way resizing */
+
 @media (max-width: 725px) {
     #hero-text {
         font-size: 0.7em;
         margin-top: 340px;
+    }
+}
+
+@media (max-width: 500px) {
+    #listen {
+        height: 1147px;
     }
 }
 
@@ -459,5 +475,9 @@ footer a:hover {
 
     .icon:hover {
         font-size: 1.5em;
+    }
+
+    #listen {
+        height: 1220px;
     }
 }
