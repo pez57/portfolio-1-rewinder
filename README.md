@@ -66,6 +66,17 @@ I used Balsamiq to draft the layout of each page. This helped me scope the amoun
 
 ---
 
+## User Stories
+- First time visitor aims:
+  - As a first time visitor, I want to easily understand what the purpose of the website is about
+  - As a first time visitor, I want the content to give me more information about the podcast
+  - As a first time visitor, I want the navigation be easy, and the scrolling between sections to be smooth
+  - As a first time visitor, I want to be able to find clickable links and media players to listen to content
+- Returning visitor aims:
+  - As a returning visitor, I want to be able to subscribe to a regular newsletter
+  - As a returning visitor, I want to find links to follow the podcast on social media
+  - As a returning visitor, I want to find out future tour dates with information and links to but tickets
+
 ## Testing
 
 Throughout the process I have been testing changes in the gitpod preview screen, and using dev tools to test small changes to the html and css code. I have committed regularly and detailed the changes made. 
