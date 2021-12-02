@@ -1,6 +1,6 @@
 # REWINDER
 ---
-REWINDER is the website designed for a fictional music discussion and review podcast "REWINDER". The show's main theme is to take a retrospective look back at the music that shaped the guests life. 
+REWINDER is the website designed for the fictional music discussion and review podcast, "REWINDER". The show's main theme is to take a retrospective look back at the music that shaped the guests lives. 
 
 The aim for the site is to direct existing fans of the podcast to the best places to listen and interact with the show. REWINDERs target audience is fans of music and record collecting, to general fans of the guests. The REWINDER site will be particularly useful to fans wanting to find out more about when and where they can enjoy the podcast, as well as signing up to the newsletter and discovering tour dates.
 The site is responsive and has layout variations dependent on the size of the devices screen.
@@ -10,7 +10,7 @@ The site is responsive and has layout variations dependent on the size of the de
 ## Features
 ---
 __Navigation__
-The navigation logo and menu on the top of the landing page is an easy way for the user to navigate to their desired section within the site. The aim is introduce user to what they expect to discover on the website and each menu option has been named accordingly to link to the corresponding section. 
+The navigation logo and menu on the top of the landing page is an easy way for the user to navigate to their desired section within the site. The aim is introduce users to what they expect to discover on the website and each menu option has been named accordingly to link to the corresponding section. 
 ![](assets/images/rewindernavbar.jpg)
 
 
@@ -20,12 +20,12 @@ The landing page has a background image of the podcast host and guest chatting i
 
 
 __Listen Section__
-The listen section consists of a row of clickable icons & a _when_ subsection. The clickable icons externally link to the corresponding streaming services. The _when_ section informs the user when to expect new episodes and includes two embedded podcasts, one on a spotify player and the other on a youtube player. These two have been used as holding episodes as an example. 
+The listen section consists of a row of clickable icons & a _when_ subsection. The clickable icons externally link to the corresponding streaming services. The _when_ section informs the user when to expect new episodes and includes two embedded podcasts, one on a Spotify player and the other on a YouTube player. These two have been used as holding episodes as an example. 
 ![](assets/images/lstnrwndr.png)
 
 
 __Subscribe__
-The user can subcribe to our newsletter and leave us a message as they submit. The user must enter their name and e-mail address into the input fields for the form to submit, there are promt messages that appear when this info is not present.
+The user can subscribe to our newsletter and leave us a message as they submit. The user must enter their name and e-mail address into the input fields for the form to submit; there are prompt messages that appear when this info is not present.
 ![](assets/images/sbscrbrwndr.png)
 
 
@@ -45,7 +45,7 @@ Each clickable element on the website changes color when hovered over with the m
 ## Design
 __Theme__
 
-The podcast show has a theme of detailed music discussion and record collecting. I kept this in mind when deciding on the logo font and color scheme. I wanted the colors of the website to be retro, contrasted by a modern font. The two fonts used are __Karla__ and __Rubik__ which are modern in style and compliment eachother, both of which were downloaded from [google fonts](https://https://fonts.google.com/).
+The podcast show has a theme of detailed music discussion and record collecting. I kept this in mind when deciding on the logo font and color scheme. I wanted the colors of the website to be retro, contrasted by a modern font. The two fonts used are __Karla__ and __Rubik__ which are modern in style and complement each other, both of which were downloaded from [google fonts](https://https://fonts.google.com/).
 
 
 __Color Pallette__
@@ -57,7 +57,7 @@ __Imagery__
 
 The hero image was chosen to give the user a visual representation of the podcast in session. The record store setting is impactful and gives a welcoming feel to the landing page. 
 
-The icons used are logos to external platforms and social media websites. My intention with using icons intead of text is to keep the site looking clean and intuitive to the user.
+The icons used are logos for external platforms and social media websites. My intention with using icons instead of text is to keep the site looking clean and intuitive to the user.
 
 __Wireframes__
 
