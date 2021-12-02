@@ -1,6 +1,7 @@
 # REWINDER
 ---
 REWINDER is the website designed for the fictional podcast "REWINDER". The aim for the site is to direct fans of the podcast to the best places to listen and interact with the show. The REWINDER site will be useful to new fans wanting to find out more about when and where they can enjoy the podcast, as well as signing up to the newsletter and discovering tour dates. 
+![](images/amiresponsiverwndr.png)
 
 ---
 ## Features
