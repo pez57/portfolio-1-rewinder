@@ -22,3 +22,6 @@ The _Tour_ section is a table of tour dates with external links to buy tickets f
 
 __Footer__
 The fixed footer contains a call to action to follow our social media pages. The REWINDER logo links the user back to the landing page. 
+
+---
+## Design
