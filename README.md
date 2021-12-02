@@ -10,12 +10,12 @@ The site is responsive and has layout variations dependent on the size of the de
 ## Features
 ---
 __Navigation__
-The navigation logo and menu on the top of the landing page is an easy way for the user to navigate to their desired section within the site. The aim is introduce users to what they expect to discover on the website and each menu option has been named accordingly to link to the corresponding section. 
+The navigation logo and menu on the top of the landing page is an easy way for the user to navigate to their desired section within the site. The aim is to introduce users to what they expect to discover on the website and each menu option has been named accordingly to link to the corresponding section. 
 ![](assets/images/rewindernavbar.jpg)
 
 
 __Landing Page__
-The landing page has a background image of the podcast host and guest chatting in a records store. This represents the theme of the podcast and gives a new fan a visual first impression of the show. The text box is a short _about_ paragraph which simply informs the user of what the podcast is all about.
+The landing page has a background image of the podcast host and guest chatting in a record store. This represents the theme of the podcast and gives a new fan a visual first impression of the show. The text box is a short _about_ paragraph which simply informs the user of what the podcast is all about.
 ![](assets/images/lndngpgrewinder.png)
 
 
@@ -50,7 +50,7 @@ The podcast show has a theme of detailed music discussion and record collecting.
 
 __Color Pallette__
 
-The color pallette consits of three contrasting colors which keep to the retro aesthetic.
+The color pallette consists of three contrasting colors which keep to the retro aesthetic.
 ![color pallette](assets/images/rwndrclrs.png)
 
 __Imagery__
@@ -75,7 +75,7 @@ I used Balsamiq to draft the layout of each page. This helped me scope the amoun
 - Returning visitor aims:
   - As a returning visitor, I want to be able to subscribe to a regular newsletter
   - As a returning visitor, I want to find links to follow the podcast on social media
-  - As a returning visitor, I want to find out future tour dates with information and links to but tickets
+  - As a returning visitor, I want to find out future tour dates with information and links to buy tickets
 
 ## Testing
 
@@ -98,9 +98,9 @@ There was an issue with the landing page text box resizing on smaller screens. T
 
 ## Deployment
 
-The website was deployed to github pages usisng the following steps:
+The website was deployed to github pages using the following steps:
 - Clicked on my repository for portfolio-1-rewinder. 
-- Clicked setting tab and navigated down to "Pages"
+- Clicked settings tab and navigated down to "Pages"
 - Selected "Main" in branch drop down box
 - Clicked "save" which produced the live link which can be viewed here https://pez57.github.io/portfolio-1-rewinder/
 
@@ -119,7 +119,7 @@ __Tools & Media__
 - Fonts used supplied by [google fonts](https://https://fonts.google.com/)
 - Hero image is a royalty free stock image from [pexels](https://pexels.com)
 - Icons used made available by [fontawesome](https://fontawesome.com)
-- Color Pallette constucted using the website [coolors](https://coolors.co)
+- Color Pallette constructed using the website [coolors](https://coolors.co)
 - Spotify embedded player holding show features the content made by [Last Podcast on the Left](https://www.lastpodcastontheleft.com/)
 - Youtube embedded player holding show features the content made by One Life One Chance Podcast
 - Image at the beginning of this document constructed using http://ami.responsivedesign.is/
