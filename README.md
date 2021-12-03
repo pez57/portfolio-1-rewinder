@@ -1,11 +1,21 @@
 # REWINDER
----
+
 REWINDER is the website designed for the fictional music discussion and review podcast, "REWINDER". The show's main theme is to take a retrospective look back at the music that shaped the guests lives. 
 
 The aim for the site is to direct existing fans of the podcast to the best places to listen and interact with the show. REWINDERs target audience is fans of music and record collecting, to general fans of the guests. The REWINDER site will be particularly useful to fans wanting to find out more about when and where they can enjoy the podcast, as well as signing up to the newsletter and discovering tour dates.
 The site is responsive and has layout variations dependent on the size of the devices screen.
 ![](assets/images/amiresponsiverwndr.png)
 
+View live site here: https://pez57.github.io/portfolio-1-rewinder/
+
+## Table Of Contents
+  * [Features](#features)
+  * [Design](#design)
+  * [User Stories](#user-stories)
+  * [Testing](#testing)
+  * [Deployment](#deployment)
+  * [Technologies used](#technologies-used)
+  * [Credits](#credits)
 ---
 ## Features
 ---
@@ -106,11 +116,11 @@ The website was deployed to github pages using the following steps:
 
 ## Technologies used
 
--HTML5: Used to make the structure and content of the site
--CSS3: Used to style the site content and appearance
--GITPOD: Used to code the website
--GITHUB: Used to store, deploy and host the site
--Balsamiq Wireframes: Used to draft page design and layout
+- HTML5: Used to make the structure and content of the site
+- CSS3: Used to style the site content and appearance
+- GITPOD: Used to code the website
+- GITHUB: Used to store, deploy and host the site
+- Balsamiq Wireframes: Used to draft page design and layout
 
 ## Credits
 
