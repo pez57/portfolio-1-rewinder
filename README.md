@@ -18,7 +18,7 @@ View live site here: https://pez57.github.io/portfolio-1-rewinder/
   * [Credits](#credits)
 ---
 ## Features
----
+
 __Navigation__
 The navigation logo and menu on the top of the landing page is an easy way for the user to navigate to their desired section within the site. The aim is to introduce users to what they expect to discover on the website and each menu option has been named accordingly to link to the corresponding section. 
 ![](assets/images/rewindernavbar.jpg)
@@ -51,7 +51,7 @@ The fixed footer contains a call to action to follow our social media pages. The
 __Hover__
 Each clickable element on the website changes color when hovered over with the mouse. This is to let the user intuitively recognise that they are able to click the link or button.
 
----
+
 ## Design
 __Theme__
 
@@ -73,8 +73,6 @@ __Wireframes__
 
 I used Balsamiq to draft the layout of each page. This helped me scope the amount of content needed to achieve a clean layout.
 ![](assets/images/rwndrwf.png)
-
----
 
 ## User Stories
 - First time visitor aims:
